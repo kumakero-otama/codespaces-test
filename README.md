@@ -1,2 +1,2 @@
 # codespaces-test
-codespaces test
+codespacesという機能のお試しも兼ねて、「いきなりプログラミング JavaScript」の自己PRメーカーの作成をしている
