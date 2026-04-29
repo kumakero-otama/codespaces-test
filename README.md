@@ -1,6 +1,5 @@
 # codespaces-test
 codespacesという機能のお試しも兼ねて、「いきなりプログラミング JavaScript」の自己PRメーカーの作成をしている
-バージョン: v1.0.3
 リンク: https://kumakero-otama.github.io/codespaces-test/
 
 ## index.html
