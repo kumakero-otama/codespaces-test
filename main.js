@@ -19,9 +19,9 @@ button.addEventListener("click", function (){
 
     // コメントの内容定義
     const message = `
-    こんにちは、私の名前は${name}です。
+    こんにちは、私の名前は${name}です。 \n
     最近${interest}にハマっていて、
-    特技は${specialty}です。
+    特技は${specialty}です。 \n
     ${greeting}`
     
     // コメント表示
