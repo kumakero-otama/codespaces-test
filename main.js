@@ -19,10 +19,7 @@ button.addEventListener("click", function (){
 
     // コメントの内容定義
     const message = `
-    こんにちは、私の名前は${name}です。 \n
-    最近${interest}にハマっていて、
-    特技は${specialty}です。 \n
-    ${greeting}`
+    こんにちは、私の名前は${name}です。\n最近${interest}にハマっていて、特技は${specialty}です。\n${greeting}`
     
     // コメント表示
     const output = document.querySelector("#output");  // outputの定義
