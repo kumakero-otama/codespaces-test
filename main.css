@@ -19,6 +19,8 @@ body{
     color: #FFFFFF;
     background-color: #3ADF00;
     margin-top: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
     padding: 10px;
     border-radius: 10px;
 }
@@ -28,6 +30,6 @@ body{
     position: absolute;
     bottom: -20px;
     border-top: 20px solid #3ADF00;
-    border-left: 200px solid transparent;
-    border-right: 200px solid transparent;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
 }
